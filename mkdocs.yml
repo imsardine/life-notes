@@ -12,6 +12,7 @@ markdown_extensions:
   - attr_list
   - smarty
   - pymdownx.smartsymbols
+  - legacy_em
 nav:
   - README.md
   - cooking/README.md
