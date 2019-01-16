@@ -1,7 +1,7 @@
 site_name: 生活工場 | 在電梯裡遇見雙胞胎
 site_url: https://imsardine.github.io/life
 repo_url: https://github.com/imsardine/life
-edit_uri: blob/master/docs/
+edit_uri: blob/source/docs/
 repo_name: imsardine/life
 theme: cinder
 extra_css: ['cinder_extra.css']
