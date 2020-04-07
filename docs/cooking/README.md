@@ -3,6 +3,7 @@
 ## 麵
 
   - [番茄雞蛋麵](番茄雞蛋麵.md)
+  - [台式炒麵](taiwanese-fried-noodle.md)
 
 ## 飯
 
